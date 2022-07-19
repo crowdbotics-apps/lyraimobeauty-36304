@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-wallet](screens/wallet)
 - [screen-shopping-cart](screens/shopping-cart)
 - [screen-forgot-password](screens/forgot-password)
+- [screen-login](screens/login)
 
 # Getting started: Frontend
 
